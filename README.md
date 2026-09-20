@@ -1,148 +1,43 @@
-# Tomorrow's Impact
+# World Better Maker 🌍✨
 
-*🚨 HACKDAY 1.0 — PROBLEM STATEMENT & PROJECT SUBMISSION*
+A modern, impact-driven web application built to inspire and coordinate positive community and environmental actions.
 
-Hello Hackers! 👋
+---
 
-The HACKDAY 1.0 Problem Statement is now LIVE! 🚀
+## 🚀 Live Demo
 
-This is an OPEN INNOVATION challenge under the theme:
+- **Live URL:** [https://world-better-maker.lovable.app](https://world-better-maker.lovable.app)
 
-*🌍 TECH FOR A BETTER TOMORROW*
+---
 
-You are free to choose your own problem, idea, and solution.
+## ✨ Features
 
-Build a technology-driven solution that addresses a real-world problem and creates meaningful impact.
+- **Responsive Design:** Fully optimized for desktop, tablet, and mobile screens.
+- **Interactive UI:** Smooth transitions, accessible UI components, and modern layouts.
+- **Real-Time Updates:** Instant client-side state handling and seamless user workflows.
+- **Modern Architecture:** Fast page loads and modular components built with Vite and React.
 
-━━━━━━━━━━━━━━━━━━
+---
 
-💻 WHAT YOU HAVE TO BUILD
+## 🛠️ Tech Stack
 
-Your project should demonstrate:
+- **Frontend:** React, TypeScript, Vite
+- **Styling:** Tailwind CSS, Shadcn UI
+- **Icons:** Lucide React
+- **Platform / AI Prototyping:** [Lovable](https://lovable.dev)
+- **Database / Backend (Optional):** Supabase
 
-✅ A clear real-world problem
+---
 
-✅ An innovative solution
+## 🏃 Getting Started Locally
 
-✅ A functional working prototype
+### Prerequisites
 
-✅ Clean, modern & user-friendly UI
+Ensure you have **Node.js** (v18 or higher) and **npm** installed on your system.
 
-✅ Responsive design
+### Installation & Run
 
-✅ Meaningful user flow
-
-✅ Proper use of technology
-
-✅ Real-world impact
-
-You may build a website, web application, AI-powered solution, mobile application, developer tool, or any other technology-driven solution relevant to your idea.
-
-━━━━━━━━━━━━━━━━━━
-
-
-
-Once the problem statement is released:
-
-UNDERSTAND → PLAN → BUILD → TEST → DEPLOY → SUBMIT 🚀
-
-━━━━━━━━━━━━━━━━━━
-
-📝 PROJECT SUBMISSION
-
-The official submission form will be shared at *5:00 PM*.
-
-You will be required to submit:
-
-• Participant / Team Details
-
-• Project Title
-
-• GitHub Repository
-
-• Deployed Link — if available
-
-• Other basic project details mentioned in the form
-
-• PPT required
-
-❌ No long presentation
-
-❌ No complicated documentation
-
-⚠️ Make sure your project is submitted within the given submission window.
-
-━━━━━━━━━━━━━━━━━━
-
-🏆 EVALUATION CRITERIA
-
-Projects will be evaluated based on:
-
-💡 Problem & Impact — 25%
-
-🚀 Innovation — 20%
-
-💻 Technical Implementation — 25%
-
-🎨 User Experience — 15%
-
-📈 Feasibility & Scalability — 15%
-
-🏆 TOTAL — 100%
-
-
-
-
-
-━━━━━━━━━━━━━━━━━━
-
-⚠️ IMPORTANT
-
-Your project must be your own work and should demonstrate genuine effort during the hackathon.
-
-Use of AI tools is allowed, but participants are responsible for understanding and presenting their submitted work.
-
-━━━━━━━━━━━━━━━━━━
-
-
-
-One problem.
-
-One idea.
-
-One build.
-
-🌍 Build something that can make tomorrow better.
-
-🚀 THINK. BUILD. INNOVATE.
-
-GOOD LUCK, HACKERS! 🔥
-
-— Team DECODEP
-
-HACKDAY 1.0
-
-BUILD • SOLVE • INNOVATE
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://world-better-maker.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/01fae67d-dfaf-4878-b169-4f0266fb1d7a).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/world-better-maker.git](https://github.com/Sneha4961/world-better-maker.git)
+   
